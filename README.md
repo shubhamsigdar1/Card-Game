@@ -18,7 +18,6 @@ I learned that creating a successful project, isn't determined by it's complexit
 
 ## More Projects
 
-![coctail]()
 
 <table bordercolor="#66b2b2">
 
