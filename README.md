@@ -1,4 +1,4 @@
-## Card Game: <a href="https://vegeterianchecker.netlify.app/" target="_blank">Check Veg/Non-veg</a>
+## Card Game: <a href="https://vegeterianchecker.netlify.app/" target="_blank">Play Game</a>
 
 <a href="https://cardgame100devs.netlify.app/" target="_blank"><img src="https://user-images.githubusercontent.com/107163260/208601446-b9a25528-e3c9-4112-bfda-b0d4fea07378.gif" /></a>
 
@@ -18,6 +18,7 @@ I learned that creating a successful project, isn't determined by it's complexit
 
 ## More Projects
 
+![coctail]()
 
 <table bordercolor="#66b2b2">
 
@@ -27,7 +28,7 @@ I learned that creating a successful project, isn't determined by it's complexit
 <a target="_blank" href="https://github.com/shubhamsigdar1/CocktailDB-API">CocktailDB-API</a>
         <br />
       <a target="_blank" href="https://cocktaildbapi.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/107163260/208601446-b9a25528-e3c9-4112-bfda-b0d4fea07378.gif" width="100%"  alt="Travelara.org"/>
+            <img src="https://user-images.githubusercontent.com/107163260/208619506-87d96699-4cbc-4c91-9059-b6505f659069.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
